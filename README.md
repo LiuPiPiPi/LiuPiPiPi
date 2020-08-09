@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image-20200809192400548](https://github.com/LiuPiPiPi/img/banner.jpg)
+![image-20200809192400548](https://github.com/LiuPiPiPi/LiuPiPiPi/img/banner.jpg)
 
 ## 有想法了再写

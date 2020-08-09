@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image-20200809192400548](./img/banner.jpg)
+
 ## 有想法了再写

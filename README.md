@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image-20200809192400548](./img/banner.jpg)
+![image-20200809192400548](https://raw.githubusercontent.com/LiuPiPiPi/picBed/master/img/20200821173008.jpg)
 
 ## 有想法了再写

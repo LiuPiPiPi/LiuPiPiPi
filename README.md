@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<<<<<<< HEAD
 ![image-20200809192400548](https://raw.githubusercontent.com/LiuPiPiPi/picBed/master/img/20200821173008.jpg)
+=======
+![image-20200809192400548](https://github.com/LiuPiPiPi/LiuPiPiPi/blob/master/img/banner.jpg)
+>>>>>>> fed9b32fa1abf13639094d7cd5994544e9cbbab6
 
 ## 有想法了再写

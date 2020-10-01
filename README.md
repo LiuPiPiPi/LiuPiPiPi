@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![image-20200809192400548](https://raw.githubusercontent.com/LiuPiPiPi/picBed/master/img/20200821173008.jpg)
 
-## 有想法了再写
+## 欢迎访问我的个人博客
+
+- [LP学长 - 热爱生活 从容面对](http://lpxz.xyz/)

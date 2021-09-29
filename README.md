@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 欢迎访问我的个人博客
 
-- [LP学长 - 热爱生活 从容面对](http://lpxz.xyz/)
+- [LP学长 - 热爱生活 从容面对](http://lpxz.work/)

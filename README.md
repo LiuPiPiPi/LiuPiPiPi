@@ -3,7 +3,7 @@
 # 联系方式
 
 - 手机：177-9583-2432
-- Email：liubihao0831@gmail.com
+- Email：liu_bihao@163.com
 - QQ / 微信号：1274685548 / LiuBH0831
 
 # 个人信息

@@ -1,5 +1,5 @@
 <div align=center>
- <img src="https://raw.githubusercontent.com/LiuPiPiPi/LiuPiPiPi/master/logo.png" alt="logo_img" width="20%" />
+ <img src="logo.png" alt="logo_img" width="20%" />
 </div>
 
 ### 联系方式

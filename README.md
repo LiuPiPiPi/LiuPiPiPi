@@ -2,12 +2,6 @@
  <img src="logo.png" alt="logo_img" width="20%" />
 </div>
 
-### 联系方式
-
-- 手机：177-9583-2432
-- Email：liu_bihao@163.com
-- QQ / 微信号：1274685548 / nwpu_lpxz
-
 ### 个人信息
 
  - LP 学长 / 男 / 1999
@@ -15,6 +9,12 @@
  - 工作年限：暂无
  - 个人网站：[LP学长 - 热爱生活 从容面对](http://lpxz.work/)
  - Github：https://github.com/LiuPiPiPi
+
+### 联系方式
+
+- 手机：177-9583-2432
+- Email：liu_bihao@163.com
+- QQ / 微信号：1274685548 / nwpu_lpxz
 
 ### 致谢
 

@@ -5,7 +5,7 @@
 ### 个人信息
 
  - LP 学长 / 男 / 1999
- - 西北工业大学硕士 / 计算机科学与技术 
+ - 西北工业大学 硕士 / 计算机科学与技术 
  - 工作年限：暂无
  - 个人网站：[LP学长 - 热爱生活 从容面对](http://lpxz.work/)
  - Github：https://github.com/LiuPiPiPi
@@ -21,4 +21,4 @@
 
 ---
 
-![Alt](https://repobeats.axiom.co/api/embed/8781269d71ad3e21289c7dfa1e4b471b95918722.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/31c4ec89da9b2b438b5b199a4b56b1e82ed7f424.svg "Repobeats analytics image")
